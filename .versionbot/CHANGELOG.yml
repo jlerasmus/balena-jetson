@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'u-boot: Adapt TX2 integration patch to 32.3.1 u-boot'
+      hash: 844bdc4c7dd06e711a8e24276917b19fc73e3cb6
+      body: |
+        These sort of patches need rebasing whenever L4T changes.
+      footer:
+        Changelog-entry: 'u-boot: Adapt TX2 integration patch to 32.3.1 u-boot'
+        changelog-entry: 'u-boot: Adapt TX2 integration patch to 32.3.1 u-boot'
+        Signed-off-by: Alexandru Costache <alexandru@balena.io>
+        signed-off-by: Alexandru Costache <alexandru@balena.io>
+      author: Alexandru Costache
+  version: 2.47.0+rev7
+  date: 2020-02-13T13:43:33.195Z
+- commits:
     - subject: Update meta-rust to include 1.36
       hash: 2015fbe3154798ec2e976541930325eda34d02c9
       body: ''

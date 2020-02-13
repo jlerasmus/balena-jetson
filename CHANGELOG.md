@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.47.0+rev7
+## (2020-02-13)
+
+* u-boot: Adapt TX2 integration patch to 32.3.1 u-boot [Alexandru Costache]
+
 # v2.47.0+rev6
 ## (2020-02-10)
 
